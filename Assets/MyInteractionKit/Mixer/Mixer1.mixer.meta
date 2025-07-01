@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bd4d2b30bd81cbb469d24f3249504f47
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 24100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Mixer/Mixer1.mixer
+  uploadId: 743336

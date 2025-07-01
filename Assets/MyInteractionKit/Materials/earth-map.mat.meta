@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6a95e10082d6d5748915b4281a303b18
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Materials/earth-map.mat
+  uploadId: 743336

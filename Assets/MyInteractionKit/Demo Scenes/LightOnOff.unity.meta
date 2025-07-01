@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baf14f823a53b7540a189f507316ecdc
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Demo Scenes/LightOnOff.unity
+  uploadId: 743336

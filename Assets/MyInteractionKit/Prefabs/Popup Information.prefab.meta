@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 073fe64f9a95d974da1d772b138ed870
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Prefabs/Popup Information.prefab
+  uploadId: 743336

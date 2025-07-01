@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d7846901f16124045853b2375c631b07
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Materials/JustABox.mat
+  uploadId: 743336

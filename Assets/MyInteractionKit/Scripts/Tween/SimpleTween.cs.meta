@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5902b3f7ef351634bba1ea29b752a3c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Scripts/Tween/SimpleTween.cs
+  uploadId: 743336

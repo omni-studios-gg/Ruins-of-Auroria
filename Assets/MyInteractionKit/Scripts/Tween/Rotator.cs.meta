@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7dacd5b6b19f7d945b3220eae948d560
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Scripts/Tween/Rotator.cs
+  uploadId: 743336

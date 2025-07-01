@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c0ca9f04ed3d31b40a3f58e19923246a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Scripts/Toggle/Toggle.cs
+  uploadId: 743336

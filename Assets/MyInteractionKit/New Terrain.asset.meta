@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a09ee5852a26fea409637768bd58140c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 15600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/New Terrain.asset
+  uploadId: 743336

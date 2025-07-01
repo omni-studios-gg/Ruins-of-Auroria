@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93bbacc7866a5aa40b69c690b74b0982
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Prefabs/Legacy/TweenEndPosition.prefab
+  uploadId: 743336

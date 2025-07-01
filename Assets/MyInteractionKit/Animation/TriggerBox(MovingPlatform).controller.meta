@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f437161aee64f74eb1af35c33a1da3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Animation/TriggerBox(MovingPlatform).controller
+  uploadId: 743336

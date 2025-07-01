@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c6124d011e84a164cb6d7ba53e2ba3a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Scripts/Core/Interactables/Interactables.cs
+  uploadId: 743336

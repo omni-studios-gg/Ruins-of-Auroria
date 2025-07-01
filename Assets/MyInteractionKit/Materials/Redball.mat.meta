@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 97c00ee41d1112e479207e5b1321631b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Materials/Redball.mat
+  uploadId: 743336

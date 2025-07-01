@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 715f6d8fe6ed5404498eaaecf4af3371
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Scripts/Mouse/MouseDrag.cs
+  uploadId: 743336

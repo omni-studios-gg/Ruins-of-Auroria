@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ab63844bdfc461499101b158b21de44
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Materials/VideoPlayer/Materials/VideoMaterialSample.mat
+  uploadId: 743336

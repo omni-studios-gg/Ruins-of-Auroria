@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bc7b0f7a36581db4faa98a5fc7695ad7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Materials/iBox/DescriptionPlane.mat
+  uploadId: 743336

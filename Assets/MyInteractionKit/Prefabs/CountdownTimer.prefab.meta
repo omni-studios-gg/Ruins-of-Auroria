@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12154bf4b9d2dc94491e33d22371177c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Prefabs/CountdownTimer.prefab
+  uploadId: 743336

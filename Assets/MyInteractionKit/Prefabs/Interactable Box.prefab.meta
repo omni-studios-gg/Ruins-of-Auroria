@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddc338b1676c3df49bcab429f466d552
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Prefabs/Interactable Box.prefab
+  uploadId: 743336

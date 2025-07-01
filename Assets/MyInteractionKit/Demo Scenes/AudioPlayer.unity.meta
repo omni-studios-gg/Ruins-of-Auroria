@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e32828c07a73fc04ca2b78f23534449b
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Demo Scenes/AudioPlayer.unity
+  uploadId: 743336

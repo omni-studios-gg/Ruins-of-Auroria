@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f6e1c158090d81d45922cc36723ca2ad
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Prefabs/Collidable Cube.prefab
+  uploadId: 743336

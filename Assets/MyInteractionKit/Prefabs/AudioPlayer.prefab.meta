@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dc45df59d629207428bd1703b55cfaa9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Prefabs/AudioPlayer.prefab
+  uploadId: 743336

@@ -1,0 +1,59 @@
+Third-Party Notice
+Product Name: MyInteractionKit
+Version: 1.0
+Publisher: Syazmedia PLT
+Copyright: © 2024 Syazmedia PLT. All rights reserved.
+
+This product may contain or make reference to third-party assets, code, or libraries which are subject to their own licenses. The use of these assets, code, or libraries within this product is done in compliance with their respective licenses.
+
+Below is a list of any third-party content used in this asset and their respective licenses:
+
+1. Unity Technologies
+Content/Asset: Unity Engine (core functionality)
+License: Unity's EULA (End User License Agreement) applies. 
+Usage: MyInteractionKit was built using Unity's provided engine functionality and Free Assets for Free to Use Assets for Publisher Demos.
+https://assetstore.unity.com/lists/free-to-use-assets-for-publisher-demos-243675
+
+2. Earth 3D Model
+Earth 3D Model is created by Syazani Bin Suhaifi for MyInteractionKit. 
+Licensed under CC0 Public Domain.
+
+4. Audio Assets
+Audio Title: dark fantasy theme
+
+Creator: solarpsychedelic
+
+Source: https://freesound.org/s/751995/
+
+License: Creative Commons 0
+
+Usage: The audio is used in scenes within the asset package.
+
+Audio Title: footstops - stone tile floor.wav
+
+Creator: soundmary
+
+Source: https://freesound.org/s/117631/
+
+License: Creative Commons 0
+
+Usage: The audio is used in scenes within the asset package.
+
+5. Earth Map Texture
+Content: Earth Map
+Creator: Dawn Hudson, NASA
+Source: https://www.publicdomainpictures.net/en/free-download.php?image=earth-map&id=86455
+License: Public Domain (Created by NASA)
+Usage: The Earth Map texture is used in the example scenes as part of the Earth model in MyInteractionKit.
+
+No Other Third-Party Assets
+As of this version of MyInteractionKit, no additional third-party content or assets are included, beyond those explicitly listed above. 
+If you encounter any third-party content that you believe has not been disclosed in this notice, please contact us immediately at syazmediaplt@gmail.com.
+
+By using this product, you agree to comply with all applicable third-party licenses. Please review the licenses above to ensure that you meet all the terms 
+and conditions.
+
+Thank you for using MyInteractionKit! For additional support, please visit our support page.
+
+Syazmedia PLT
+2024 © All rights reserved.

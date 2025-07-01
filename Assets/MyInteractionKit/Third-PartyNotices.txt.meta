@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9abea2563b6bc5842bdcfed5206ec4f9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Third-PartyNotices.txt
+  uploadId: 743336

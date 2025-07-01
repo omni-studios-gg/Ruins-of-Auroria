@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e020d1c1fb2a92243ac2b41cfaadcc0a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Demo Scenes/VideoPlayer.unity
+  uploadId: 743336

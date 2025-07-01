@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e8d2655f9df8534aa9bb7dba466d153
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Demo Scenes/Tween.unity
+  uploadId: 743336

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d41257f5f06ced41832b1aad02f2192
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Materials/Billboard.shader
+  uploadId: 743336

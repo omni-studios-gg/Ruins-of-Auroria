@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1030f1a650086a54fbb96d1fb1183457
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Animation/join.anim
+  uploadId: 743336

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3ecbbe59a140ad749bb0d7e7d6641645
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Scripts/Mouse/MouseReceiver.cs
+  uploadId: 743336

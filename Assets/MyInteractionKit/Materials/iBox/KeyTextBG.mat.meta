@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5efb4a2cb98dffe49b08844c44b20514
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Materials/iBox/KeyTextBG.mat
+  uploadId: 743336

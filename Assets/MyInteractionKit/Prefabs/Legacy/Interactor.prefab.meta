@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b4e06d086e8a5ce439d7981cb2fca643
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294809
+  packageName: MyInteractionKit
+  packageVersion: 2.2.1
+  assetPath: Assets/MyInteractionKit/Prefabs/Legacy/Interactor.prefab
+  uploadId: 743336
