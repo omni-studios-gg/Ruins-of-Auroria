@@ -77,7 +77,7 @@ This repository documents the architecture and implementation strategy for build
 - **FishNet** (Networking)
 - **WorldStreamer** (Terrain streaming)
 - **GPU Instancer** (Rendering optimization)
-- **FastAPI/Node.js** (Microservices)
+- **C# NetCore** (Microservices)
 - **Redis/MySQL** (Databases)
 
 ---
